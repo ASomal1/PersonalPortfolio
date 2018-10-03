@@ -1,2 +1,2 @@
 # PersonalPortfolio
-Everything I create in my spare time HTML/CSS/JS
+Everything I create in my spare time HTML/CSS/JS/PHP/SQL
